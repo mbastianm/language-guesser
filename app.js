@@ -4,7 +4,6 @@ const langs = require("langs")
 const colors = require("colors")
 
 const input = process.argv.slice(2).join()
-console.log(input)
 
 const langCode = franc(input)
 
